@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Nanum Brush Script', cursive;
+  font-size: 20px;
+}
+
+p {
+  font-size: 24px;
+  height: 70px;
+  margin-bottom: 0;
+}
+
+hr {
+  margin-bottom: 0;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 10px;
+  width: 15%;
+  background-color: transparent;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 60px;
+  font-family: 'Amatic SC', cursive;
+}
+
+h2 {
+  font-family: 'Gochi Hand', cursive;
+  margin-top: 0;
+}
+
+h3 {
+  font-family: 'Gochi Hand', cursive;
+}
+
+.giphy {
+  border-radius: 50%;
+}
+
+.footprint {
+  height: 240px;
+  width: 240px;
+}
+
+.curious-giphy {
+  border-radius: 50%;
+}
+
+.man {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #EAE2B6;
+  position: relative;
+  padding-top: 50px;
+  height: 590px;
+}
+
+.skills {
+  padding-top: 40px;
+}
+
+.middle-container {
+  background-color: #A3A847;
+}
+
+.contact-me {
+  background-color: #FFC074;
+  padding-top: 40px;
+}
+
+.bottom-container {
+  background-color: #FFC074;
+}
+
+.jungle {
+  position: relative;
+  height: 300px;
+  width: 300px;
+  top: 16%;
+}
+
+.top-cloud {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 120px;
+  left: 67%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  right: 65%;
+  bottom: 47%;
+}
